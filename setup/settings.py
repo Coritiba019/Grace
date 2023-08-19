@@ -127,3 +127,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Adicionando comentário para teste de commit
+
+# Adicionando comentário para teste de commit 2

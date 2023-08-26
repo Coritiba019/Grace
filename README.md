@@ -32,7 +32,7 @@ source .venv/bin/activate
 ## Instalar as dependências
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## copia o .env.example e renomeia para .env

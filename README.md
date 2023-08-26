@@ -1,5 +1,19 @@
 # Guia de Instalação
 
+## Configuração do Ambiente Virtual
+
+### No Windows
+```
+pip install virtualenv
+python -m virtualenv .venv
+```
+
+### No Linux
+```
+pip install virtualenv
+python3 -m virtualenv .venv
+```
+
 ## Entrar no ambiente virtualenv
 
 ### Windows
